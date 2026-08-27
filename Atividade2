@@ -1,0 +1,15 @@
+1. Um controle remoto de TV precisa ser barato, simples e de curtíssimo alcance, funcionando apenas quando apontado diretamente para o aparelho, sem obstáculos no caminho. Qual tecnologia sem fio é tipicamente usada nesse caso?
+[] a) Wi-Fi, pois seria a tecnologia mais barata disponível para esse tipo de dispositivo
+[] b) WiMAX, pois seria a tecnologia ideal para controles remotos de uso doméstico
+[] c) Bluetooth, pois também exigiria linha de visada direta com o aparelho, como o infravermelho
+[x] d) Infravermelho (IR), pois exige linha de visada direta e é tipicamente usado em controles remotos de curto alcance
+[] e) VANETs, pois seria o padrão adotado para dispositivos eletrônicos domésticos em geral
+Justificativa: Usa pulsos de luz invisível que exigem linha de visada (não atravessam obstáculos) e apontamento direto. É a solução mais barata e simples para curto alcance.
+
+2. Um sistema de trânsito inteligente quer que os veículos troquem informações entre si e com sensores instalados na rodovia, em tempo real, para alertar sobre frenagens bruscas e congestionamentos à frente. Qual tecnologia sem fio foi desenvolvida especificamente para esse tipo de comunicação?
+
+[] a) Wimesh, pois seria a tecnologia padrão para interligar sensores dentro de um único prédio
+[x] b) VANETs (Vehicular Ad-hoc Networks), tecnologia voltada à comunicação entre veículos e com a infraestrutura viária
+[] d) Infravermelho, pois funcionaria bem mesmo sem linha de visada direta e em alta velocidade
+[] e) WiMAX, pois teria sido criado especificamente para comunicação entre veículos em movimento
+Justificativa: Desenvolvida especificamente para comunicação veicular (V2V e V2I), suportando alta mobilidade, baixíssima latência e troca de dados em tempo real no trânsito.
